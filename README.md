@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kieran
 - 👀 I’m interested in various things in programming
-- 🌱 I’m currently learning Python and little bit of C++
+- 🌱 I’m currently learning Python and a little bit of C++
 - 💞️ I’m looking to collaborate on nothing so far, soon!
 - 📫 How to reach me: ...
 
